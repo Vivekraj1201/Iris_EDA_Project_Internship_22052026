@@ -1,0 +1,26 @@
+Subject: Submission of Exploratory Data Analysis Project
+
+Dear Sir/Madam,
+
+I hope you are doing well.
+
+I am submitting my Exploratory Data Analysis (EDA) project as part of the internship application process. In this project, I analyzed the dataset to identify trends, correlations, and key insights using statistical summaries and visualizations.
+
+Project Highlights:
+- Data cleaning and preprocessing
+- Statistical analysis
+- Correlation analysis
+- Data visualization using Python libraries
+- Structured insight report
+
+GitHub Repository:
+[Paste GitHub Link]
+
+Attached:
+- Project Report
+- Jupyter Notebook
+
+Thank you for your time and consideration. I look forward to your feedback.
+
+Best Regards,
+Vivek Raj
